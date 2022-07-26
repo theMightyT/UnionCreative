@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+    color: $union-darkgrey;
+}
+
+// app header, logo, defaults etc
+header { 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 4px;
+
+    margin: 8px;
+
+    .union-logo { 
+        width: 140px;
+        padding: 8px; 
+    }
+
+    nav { margin-left: auto; }
+}
