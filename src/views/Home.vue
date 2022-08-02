@@ -24,7 +24,7 @@ export default {
 <style lang="scss">
   .work {
     width: 100%;
-    height: 45vh;
+    height: 100vh;
     
     background-position: center;
   }
