@@ -1,23 +1,44 @@
 let data = [
     {
         name: 'test',
-        desc: 'demo',
+        desc: 'Branding & Package Design',
         id: 'slug',
-        source: 'Bundu.png'
+        source: 'Thunderbar_sm.png'
     },
 
     {
         name: 'test',
-        desc: 'demo',
+        desc: 'SyFy Channel Reboot',
         id: "slug1",
-        source: 'Lack.png'
+        source: 'SyFy_sm.png'
     },
 
     {
         name: 'test',
-        desc: 'demo',
+        desc: 'Branding & Package Design',
         id: "slug2",
-        source: 'SyFy.png'
+        source: 'Bundu_sm.png'
+    },
+
+    {
+        name: 'test',
+        desc: 'Rebrand Concept',
+        id: "slug2",
+        source: 'LAC_sm.png'
+    },
+
+    {
+        name: 'test',
+        desc: 'Motion Design',
+        id: "slug2",
+        source: 'Adidas_sm.png'
+    },
+
+    {
+        name: 'test',
+        desc: 'Brand Design',
+        id: "slug2",
+        source: 'SBL_sm.png'
     }
 ]
 

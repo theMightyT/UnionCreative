@@ -1,10 +1,9 @@
 <template>
   <header>
     <UnionLogo
-      class="union-logo"
-    />
+      class="union-logo" />
     <nav>
-      <router-link to="/">Home</router-link> |
+      <i class="fa-regular fa-bars"></i>
     </nav>
   </header>
   <router-view></router-view>
