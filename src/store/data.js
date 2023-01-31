@@ -1,44 +1,44 @@
 let data = [
     {
-        name: 'test',
-        desc: 'Branding & Package Design',
-        id: 'slug',
-        source: 'Thunderbar_sm.png'
+        name: 'thunderbar',
+        desc: 'Branding<br> & Package Design',
+        id: '01',
+        source: 'Thunderbar.webp'
     },
 
     {
-        name: 'test',
+        name: 'syfy',
         desc: 'SyFy Channel Reboot',
-        id: "slug1",
-        source: 'SyFy_sm.png'
+        id: "02",
+        source: 'SyFy.webp'
     },
 
     {
-        name: 'test',
-        desc: 'Branding & Package Design',
-        id: "slug2",
-        source: 'Bundu_sm.png'
+        name: 'bundu',
+        desc: 'Branding <br>& Package Design',
+        id: "03",
+        source: 'Bundu.webp'
     },
 
     {
-        name: 'test',
+        name: 'lac',
         desc: 'Rebrand Concept',
-        id: "slug2",
-        source: 'LAC_sm.png'
+        id: "04",
+        source: 'LAC.webp'
     },
 
     {
-        name: 'test',
+        name: 'adidas',
         desc: 'Motion Design',
-        id: "slug2",
-        source: 'Adidas_sm.png'
+        id: "05",
+        source: 'Adidas.webp'
     },
 
     {
-        name: 'test',
+        name: 'sbl',
         desc: 'Brand Design',
-        id: "slug2",
-        source: 'SBL_sm.png'
+        id: "06",
+        source: 'SBL.webp'
     }
 ]
 

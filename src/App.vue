@@ -1,9 +1,9 @@
 <template>
-  <header>
+  <header id="main-header">
     <UnionLogo
       class="union-logo" />
     <nav>
-      <i class="fa-regular fa-bars"></i>
+      <i class="fa-solid fa-bars"></i>
     </nav>
   </header>
   <router-view></router-view>

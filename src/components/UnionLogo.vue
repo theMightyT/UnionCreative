@@ -12,5 +12,5 @@
 </template>
 
 <style lang="scss">
-    .logo-fill { fill: $union-darkgrey }
+    .logo-fill { fill: white }
 </style>

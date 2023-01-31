@@ -1,7 +1,5 @@
 <template>
-  <section class="wrapper">
-    <WorkComponent v-for="item in work" :key="item.id" :data="item" />
-  </section>
+    <WorkComponent v-for="item in work" :key="item.id" :data="item"/>
 </template>
 
 <script>

@@ -3,22 +3,17 @@ body {
     color: $union-darkgrey;
 }
 
-// .wrapper { margin-top: 70px; }
-
 // app header, logo, defaults etc
-header { 
+#main-header { 
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    // height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 4px;
-
-    background-color: white;
-
-    // margin: 8px;
+    color: white;
+    z-index: 5000;
 
     .union-logo { 
         width: 104px;
@@ -27,8 +22,9 @@ header {
 
     nav {
         .fa-bars {
-            padding: 1em;
-            font-size: 1.25em;
+            padding: 0.5em;
+            font-size: 1.75em;
+            cursor: pointer;
         }
 
         margin-left: auto; 
